@@ -1,0 +1,5 @@
+cantidad total aproximada de ejemplos: 29.747.139
+
+cantidad total de categorias generales: 30
+
+cantidad total de subcategorias : 410 aprox
